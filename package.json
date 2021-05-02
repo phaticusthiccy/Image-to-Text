@@ -1,5 +1,5 @@
 {
-  "name": "@phaticusthiccy/Image-to-text",
+  "name": "@phaticusthiccy/image-to-text",
   "version": "1.2.0",
   "description": "Convert images to rgba art!",
   "main": "index.js",
@@ -20,7 +20,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/phaticusthiccy/Image-to-text.git"
+    "url": "git+ssh://git@github.com/phaticusthiccy/image-to-text.git"
   },
   "keywords": [
     "ascii",
@@ -33,7 +33,7 @@
   "author": "Phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/phaticusthiccy/Image-to-text/issues"
+    "url": "https://github.com/phaticusthiccy/image-to-text/issues"
   },
-  "homepage": "https://github.com/phaticusthiccy/Image-to-text"
+  "homepage": "https://github.com/phaticusthiccy/image-to-text"
 }
