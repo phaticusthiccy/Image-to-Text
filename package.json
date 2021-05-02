@@ -1,10 +1,10 @@
 {
   "name": "image-to-text",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Convert images to rgba art!",
   "main": "index.js",
   "bin": {
-    "ttt-rgba": "./cli-usage.js"
+    "ttt-rgba": "cli-usage.js"
   },
   "dependencies": {
     "couleurs": "^5.0.0",
@@ -31,7 +31,7 @@
     "gif"
   ],
   "author": "Phaticusthiccy",
-  "license": "GNU",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/phaticusthiccy/image-to-text/issues"
   },
