@@ -1,9 +1,6 @@
 'use strict';
 
-var Jimp = require('jimp'),
-    Couleurs = require('couleurs'),
-    terminalCharWidth = require('terminal-char-width'),
-    windowSize = require('window-size');
+var Jimp = require('jimp'), Couleurs = require('couleurs'), terminalCharWidth = require('terminal-char-width'), windowSize = require('window-size');
 
 var chars = ' .,:;i1tfLCG08@',
     num_c = chars.length - 1;
