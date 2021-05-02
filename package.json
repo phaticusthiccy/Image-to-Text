@@ -1,0 +1,39 @@
+{
+  "name": "image-to-text",
+  "version": "0.0.1",
+  "description": "Convert images to rgba art!",
+  "main": "index.js",
+  "bin": {
+    "ttt-rgba": "./cli-usage.js"
+  },
+  "dependencies": {
+    "couleurs": "^5.0.0",
+    "jimp": "^0.10.3",
+    "minimist": "^1.2.5",
+    "request": "^2.88.0",
+    "terminal-char-width": "^1.0.8",
+    "window-size": "^0.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Hata!: Test belirtilmedi.\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/phaticusthiccy/image-to-text.git"
+  },
+  "keywords": [
+    "ascii",
+    "rgba",
+    "image",
+    "png",
+    "jpg",
+    "gif"
+  ],
+  "author": "Phaticusthiccy",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/phaticusthiccy/image-to-text/issues"
+  },
+  "homepage": "https://github.com/phaticusthiccy/image-to-text"
+}
